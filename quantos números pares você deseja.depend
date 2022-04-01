@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1648120014 source:c:\users\geovane.ramirez\documents\programas em c\aprendendo while, for e do while\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
